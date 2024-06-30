@@ -112,7 +112,7 @@ For questions or feedback, please contact:
 
 - **Name**: Sambit Sahoo
 - **Email**: ssahoo.sambit@gmail.com
-- **GitHub**: [yourusername](https://github.com/Sahoo-Sambit)
+- **GitHub**: [Sahoo-Sambit](https://github.com/Sahoo-Sambit)
 
 ---
 
