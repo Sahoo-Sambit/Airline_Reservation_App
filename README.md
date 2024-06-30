@@ -1,12 +1,12 @@
-Here's a detailed `README.md` file for the `Airline_Reservation_App` project:
+Here's a detailed `README.md` file for the `Airline_Reservation_System` project:
 
 ---
 
-# Airline Reservation App
+# Airline Reservation System
 
 ## Overview
 
-The Airline Reservation App is an enterprise-level system for managing airline reservations. Built using Spring Boot and Spring Data JPA for the backend, and Bootstrap with JSP/JSTL for the frontend, this application allows users to search for flights, book tickets, and cancel bookings. It efficiently manages customers, flights, and reservations through a user-friendly interface.
+The Airline Reservation System is an enterprise-level system for managing airline reservations. Built using Spring Boot and Spring Data JPA for the backend, and Bootstrap with JSP/JSTL for the frontend, this application allows users to search for flights, book tickets, and cancel bookings. It efficiently manages customers, flights, and reservations through a user-friendly interface.
 
 ## Features
 
