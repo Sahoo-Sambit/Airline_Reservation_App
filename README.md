@@ -53,7 +53,7 @@ The Airline Reservation App is an enterprise-level system for managing airline r
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Airline_Reservation_App.git
+   https://github.com/Sahoo-Sambit/Airline_Reservation_App.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -88,6 +88,7 @@ The Airline Reservation App is an enterprise-level system for managing airline r
 ## Usage
 
 - **Flight Search**: Use the search feature to find available flights.
+- **Add Flights**: Use this feature to add the airlines. 
 - **Booking**: Select a flight and book a seat.
 - **Manage Bookings**: View, edit, or cancel your bookings through the user interface.
 
@@ -109,9 +110,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please contact:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Name**: Sambit Sahoo
+- **Email**: ssahoo.sambit@gmail.com
+- **GitHub**: [yourusername](https://github.com/Sahoo-Sambit)
 
 ---
 
